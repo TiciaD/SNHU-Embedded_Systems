@@ -1,4 +1,4 @@
-# SNHU-Embedded_Systems
+# SNHU Embedded Systems
 This repo will contains a few of the embedded systems projects I've worked on throughout the CS-350 Emerging Systems, Architecture and Technology class at Southern New Hampshire University using TI Code Composer Studio (CCS) to program the TC CC3220x LAUNCHXL to achieve the different objectives.
 
 ### Blinking LEDs
